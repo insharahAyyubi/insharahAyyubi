@@ -2,8 +2,6 @@
 
 # ⭐ About Me
 👋🏻 Hi there! I'm **Insharah Ayyubi**, a passionate individual who strives for perfection in every task.<br>🌐 I'm keen on exploring the ever-evolving web technologies and discovering all they have to offer.<br>👩‍💻 I love developing in **MERN Stack** and making valuable contributions in the same.<br>📖 Currently learning about Deep Learning and CNNs.<br>🎨 When not into tech, you’ll find me [here](https://www.upwork.com/freelancers/~01b6dd0b1cefebba6a?viewMode=1) or busy painting my fanciful world.<br>🌷 Know more about me at: [insharah.netlify.app](https://insharah.netlify.app)<br>
-<br/>
-
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insharah_ayyubi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insharah-ayyubi/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/insharahayyubi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyyubiInsharah) 
@@ -16,6 +14,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=insharahAyyubi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=insharahAyyubi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=insharahAyyubi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
