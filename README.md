@@ -1,3 +1,7 @@
+<p align="center"><a href="https://insharah.netlify.app/"><img width="80%" alt="Hello, I'm Insharah! Glad to see you here :)" src="./assets/banner.png" /></a></p>
+
+<br />
+
 # 💫 About Me
 👋🏻 Hi there! I'm **Insharah Ayyubi**, a passionate individual who strives for perfection in every task.<br>🌐 I'm keen on exploring the ever-evolving web technologies and discovering all they have to offer.<br>👩‍💻 I love developing in **MERN Stack** and making valuable contributions in the same.<br>📖 Currently learning about Deep Learning and CNNs.<br>🎨 When not into tech, you’ll find me [here](https://www.upwork.com/freelancers/~01b6dd0b1cefebba6a?viewMode=1) or busy painting my fanciful world.<br>🌷 Know more about me at: [insharah.netlify.app](https://insharah.netlify.app)<br>
 
